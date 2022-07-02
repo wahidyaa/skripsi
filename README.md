@@ -1,3 +1,3 @@
-# Deteksi Bangunan Wilayah Perkotaan Menggunakan Deep Learning Berbasis Objek dengan Arsitektur YOLO pada Citra Satelit (Studi Kasus: DKI Jakarta)
+# Detection of Urban Area Buildings Using Object-Based Deep Learning with YOLO Architecture on Satellite Imagery (Case Study: DKI Jakarta)
 
-Repository ini berisi source code dan data yang digunakan pada penelitian ini. Segala material akan ditambahkan ke repository ini. 
+This repository contains the source code, weight model, and data used in this research. All materials will be added to this repository.
